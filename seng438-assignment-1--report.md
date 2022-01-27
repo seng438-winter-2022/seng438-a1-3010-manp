@@ -8,7 +8,7 @@
 | Muhammad Shakeel|   |
 | Manpreet Singh  |   |
 | Girimer Singh   |   |
-| Tiafan Zhou.    |   |
+| Tianfan Zhou    |   |
 
 **Table of Contents**
 
