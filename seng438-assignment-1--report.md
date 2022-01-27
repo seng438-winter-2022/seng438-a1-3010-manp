@@ -31,6 +31,9 @@ learned	1](#_Toc439194682)
 
 [7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
 
+[8 References 1](#_Toc439194684)
+
+
 # Introduction
 
 The purpose of this lab was to do exploratory testing and manual functional testing on an ATM system composed of two versions 1.0 and 1.1 respectively. Our understanding   about exploratory and manual functional testing was that both the testings have some limitations. Although these testing tools are helpful resources in finding bugs/defects but they are more time consuming and it is prone to human errors. [1] Exploratory testing requires a good understanding of the application and there is no logical plan that needs to be followed. On the other hand, manual scripted testing has an advantage of following a plan before actually running the tests. This clearly shows us that the test cases can be used again when appropriate while meeting all the required application/software requirements. And after the testing for version 1.0, we will perform our regression testing on version 1.1, which is an updated version of the program. We need to perform regression testing on the new version to see if perious bugs existing in version 1.0 have been solved, and also if there are any new bugs that come with modification of the code.
@@ -66,7 +69,7 @@ Both the manual and exploratory testing was done in pairs. One member had the re
 
 # How the pair testing was managed and team work/effort was divided 
 
-We learned that we are able to get more work done in less time when working with team members. We were able to share our knowledge with each other to get the work done more efficiently and effectively. Moreover, we were able to get the lab done in a timely fashion as we started early and spent some time each order until completion. This lab showed us the importance of teamwork since everyone was able to benefit from the important ideas and concepts that were shared among the team members.Teamwork is one of the most important skills that is needed in the industry and this lab gave us a good practice of that. We were able to use the tools required such as backlog in order to report our findings. Once each member found an issue or bug, it was reported to the backlog. The findings were later verified between each pair and with all team members. Backlog was a useful tool as everyone was able to see the bugs being reported and make appropriate changes if necessary. Backlog allowed real time updates that would be viewed by everyone. All the written reports were made on the google docs so that our team could effectively communicate and make changes accordingly. This helped us a lot as a group in writing our reports accurately.
+For each kind of testing, We divided our group into two pairs. Initially, Each pair in our group did the Exploratory testing. In each pair, One of the group members did the actual testing on the ATM system(version 1.0 and version 1.1) and another group member recorded each bug/defect on the backlog. After Recording all the bugs/defects on the backlog, We verified all the findings of the bugs/defects as a group. Similarly for the manual functional testing, all the 40 tests were divided between two pairs. Similarly, one of the members from each pair performed the tests and another team member recorded it on the backlog. Moreover, we were able to get this lab done in a timely fashion as we started early and also had regular group meetings until the completion of this lab. In addition to this, Backlog was a useful tool in this lab as everyone was able to see the bugs being reported and make appropriate changes if necessary. Backlog allowed real time updates that would be viewed by everyone. All the written reports were divided equally between all the team members and reports were made on the google docs so that our team could effectively communicate and make changes accordingly. This helped us a lot as a group in writing our reports accurately.
 
 
 # Difficulties encountered, challenges overcome, and lessons learned
@@ -84,4 +87,11 @@ This lab gave us a good practical understanding of how exploratory and manual te
 
 However in the future it would be a good idea to have lab documents to be short and concise. This can definitely help students save some time finding the useful information to implement the lab while fulfilling the requirements. The backlog system was very user friendly and easy to use for recording bugs when working in a team.  
 
+# References
+[1] Manual Testing Vs Automation Testing in Software Testing
+Rajkumar
+https://www.softwaretestingmaterial.com/manual-testing-vs-automation-testing/
+ 
+[2] A quick guide to Exploratory Testing Vs Scripted Testing
+https://reqtest.com/testing-blog/exploratory-testing-vs-scripted-testing/
 
