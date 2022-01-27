@@ -20,7 +20,7 @@
 
 [4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
 
-[5 Any lessons learned from your teamwork on this lab? 1](#_Toc439194681)
+[5 Any lessons learned from your teamwork on this lab 1](#_Toc439194681)
 
 [6 Difficulties encountered, challenges overcome, and lessons
 learned	1](#_Toc439194682)
@@ -59,7 +59,7 @@ Exploratory Testing is more effective than Manual functional testing as It estab
 Both the manual and exploratory testing was done in pairs. One member had the responsibility of finding the bugs while the other person recorded the findings in the backlog. We shared our findings with each other and we verified our findings by running the application again and producing that bug. This strategy ensured that we were able to find all possible bugs in the application. We used the backlog tool to organize our findings and make appropriate edits as needed to ensure all possible bugs are noted and discussed among the team. The backlog tool was effectively used as it showed the issues that have been resolved and issues that are yet to be resolved in the version 1.1. There was some ambiguity on the status assigned to each bug in the backlog as status meanings are open to individual interpretation. Team worked together to come to consensus on the best suitable statuses for better clarity.
 
 
-# Any lessons learned from your teamwork on this lab?
+# Any lessons learned from your teamwork on this lab
  
 We learned that we are able to get more work done in less time when working with team members. We were able to share our knowledge with each other to get the work done more efficiently and effectively. Moreover, we were able to get the lab done in a timely fashion as we started early and spent some time each order until completion. This lab showed us the importance of teamwork since everyone was able to benefit from the important ideas and concepts that were shared among the team members.Teamwork is one of the most important skills that is needed in the industry and this lab gave us a good practice of that. We were able to use the tools required such as backlog in order to report our findings. Once each member found an issue or bug, it was reported to the backlog. The findings were later verified between each pair and with all team members. Backlog was a useful tool as everyone was able to see the bugs being reported and make appropriate changes if necessary. Backlog allowed real time updates that would be viewed by everyone. All the written reports were made on the google docs so that our team could effectively communicate and make changes accordingly. This helped us a lot as a group in writing our reports accurately.
 
